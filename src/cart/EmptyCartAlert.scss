@@ -1,0 +1,24 @@
+.cart-empty-wrapper {
+    @include flexBox(column, space-between, center);
+    width: calc(100% - 20px);
+    height: 350px;
+    padding: 10px;
+    margin: 20px 0;
+
+    .empty-cart-header {
+        h6 {
+            font: {
+                style: $unnamed-font-style-normal;
+                variant: normal;
+                weight: $unnamed-font-weight-600;
+                size: 23px;
+                family: $unnamed-font-family-muli;
+            }
+            line-height: $unnamed-line-spacing-24;
+            letter-spacing: $unnamed-character-spacing-0;
+            text-align: center;
+            color: #000;
+        }
+    }
+   
+}
