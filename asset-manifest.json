@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AEM-Assignment-2/static/css/main.cccd315a.css",
-    "main.js": "/AEM-Assignment-2/static/js/main.540c89cb.js",
+    "main.js": "/AEM-Assignment-2/static/js/main.bb07d7b9.js",
     "static/js/787.4bb2dbfb.chunk.js": "/AEM-Assignment-2/static/js/787.4bb2dbfb.chunk.js",
     "static/media/banner-image1.PNG": "/AEM-Assignment-2/static/media/banner-image1.419ab51ccad06b87df1b.PNG",
     "static/media/sweking.png": "/AEM-Assignment-2/static/media/sweking.0da8a891325730a88642.png",
@@ -27,11 +27,11 @@
     "static/media/chevron-right.svg": "/AEM-Assignment-2/static/media/chevron-right.ee59aa22b6bf156e0eb4aea386711bbf.svg",
     "static/media/chevron-down.svg": "/AEM-Assignment-2/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "main.cccd315a.css.map": "/AEM-Assignment-2/static/css/main.cccd315a.css.map",
-    "main.540c89cb.js.map": "/AEM-Assignment-2/static/js/main.540c89cb.js.map",
+    "main.bb07d7b9.js.map": "/AEM-Assignment-2/static/js/main.bb07d7b9.js.map",
     "787.4bb2dbfb.chunk.js.map": "/AEM-Assignment-2/static/js/787.4bb2dbfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cccd315a.css",
-    "static/js/main.540c89cb.js"
+    "static/js/main.bb07d7b9.js"
   ]
 }
